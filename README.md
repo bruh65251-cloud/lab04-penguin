@@ -2,7 +2,7 @@
 Lab 4 group project for Automated Software Testing — collaborative Git/GitHub workflow, pytest fixtures, tests, and merge conflict practice.
 
 ## Group Name
-**Penguin**
+**PENGUINS**
 
 ---
 
@@ -14,6 +14,6 @@ Lab 4 group project for Automated Software Testing — collaborative Git/GitHub 
 | Aung Khant Paing | 6705140082 | Trevor0v0 | Member B | `test_withdraw.py` |
 | <Name> | <Student ID> | <username> | Member C | `test_teardown.py` |
 | <Name> | <Student ID> | <username> | Member D | `test_shared.py` |
-| <Name> | <Student ID> | <username> | Member D | `conftest.py` |
+| Ye Myat Aung | 6705142009 | bruh65251-cloud | Member E | `conftest.py` |
 
 ---

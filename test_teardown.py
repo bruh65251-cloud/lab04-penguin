@@ -9,4 +9,7 @@ def setup_teardown():
 def test_first_teardown(setup_teardown):
     print("Running first teardown test")
     assert True
-    
+
+def test_second_teardown(setup_teardown):
+    print("Running second teardown test")
+    assert True

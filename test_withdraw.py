@@ -1,6 +1,8 @@
 import pytest
+
 from bank import BankAccount
 
+
 @pytest.fixture
-def funded_account():
+def account():
     return BankAccount(100)

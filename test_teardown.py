@@ -6,3 +6,7 @@ def setup_teardown():
     yield
     print("Teardown: cleaning up after test")
 
+def test_first_teardown(setup_teardown):
+    print("Running first teardown test")
+    assert True
+    

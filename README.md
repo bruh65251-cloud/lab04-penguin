@@ -11,7 +11,7 @@ Lab 4 group project for Automated Software Testing — collaborative Git/GitHub 
 | Member Name | Student ID | GitHub Username | Role | Main File / Responsibility |
 |---|---|---|---|---|
 | <Name> | <Student ID> | <username> | Member A | `test_deposit.py` |
-| <Name> | <Student ID> | <username> | Member B | `test_withdraw.py` |
+| Aung Khant Paing | 6705140082 | Trevor0v0 | Member B | `test_withdraw.py` |
 | <Name> | <Student ID> | <username> | Member C | `test_teardown.py` |
 | Pyae Phyo Paing | 6705142024 | Percy022 | Member D | `test_shared.py` |
 | Ye Myat Aung | 6705142009 | bruh65251-cloud | Member E | `conftest.py` | 

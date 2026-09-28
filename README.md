@@ -1,7 +1,9 @@
 # lab04-penguin
+
 Lab 4 group project for Automated Software Testing — collaborative Git/GitHub workflow, pytest fixtures, tests, and merge conflict practice.
 
 ## Group Name
+
 **PENGUINS**
 
 ---
@@ -14,7 +16,7 @@ Lab 4 group project for Automated Software Testing — collaborative Git/GitHub 
 | Aung Khant Paing | 6705140082 | Trevor0v0 | Member B | `test_withdraw.py` |
 | Sai Soom Rath | 6705142034 | SaiSoomRath | Member C | `test_teardown.py` |
 | Pyae Phyo Paing | 6705142024 | Percy022 | Member D | `test_shared.py` |
-| Ye Myat Aung | 6705142009 | bruh65251-cloud | Member E | `conftest.py` | 
+| Ye Myat Aung | 6705142009 | bruh65251-cloud | Member E | `conftest.py` |
 
 ---
 
@@ -42,6 +44,23 @@ We then repeated the merge and resolved the conflict by combining the valid info
 
 After confirming that both members appeared correctly in the final `Who Did What` table, the resolved `README.md` was staged, committed as the merge-conflict resolution, and pushed to the shared GitHub repository.
 
+---
+
+## Git Contribution Summary
+
+Output from `git shortlog -sn`:
+
+```text
+12  Ye Myat Aung - 6705142009
+11  6705142034-Sai Soom Rath
+ 9  Pyae Phyo Paing - 6705142024
+ 9  Trevor0v0
+ 4  Muhammad Hashir Khan - 6705142019
+ 1  bruh65251-cloud
+```
+Note: bruh65251-cloud is an earlier commit made by Ye Myat Aung under the GitHub username, while Trevor0v0 corresponds to Aung Khant Paing (6705140082).
+
+---
 
 ## Reflection Questions
 

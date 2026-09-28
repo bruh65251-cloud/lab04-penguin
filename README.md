@@ -10,20 +10,9 @@ Lab 4 group project for Automated Software Testing — collaborative Git/GitHub 
 
 | Member Name | Student ID | GitHub Username | Role | Main File / Responsibility |
 |---|---|---|---|---|
-| <Name> | <Student ID> | <username> | Member A | `test_deposit.py` |
 | <Name> | <Student ID> | <username> | Member B | `test_withdraw.py` |
-<<<<<<< HEAD
-| <Name> | <Student ID> | <username> | Member C | `test_teardown.py` |
-=======
-| <Sai Soom Rath> | <6705142034> | <SaiSoomRath> | Member C | `test_teardown.py` |
-| <Name> | <Student ID> | <username> | Member D | `test_shared.py` |
-| <Name> | <Student ID> | <username> | Member D | `conftest.py` |
->>>>>>> de5041d (docs: add my row to the who-did-what table)
-
+| <Sai Soom Rath> | <6705142034> | <SaiSoomRath> | Member C | `test_teardown.py`
 | <Pyae Phyo Paing> | <6705142024> | <Percy022> | Member D | `test_shared.py` |
-| <Name> | <Student ID> | <username> | Member E | `conftest.py` |
-
-| <Name> | <Student ID> | <username> | Member D | `test_shared.py` |
 | Ye Myat Aung | 6705142009 | bruh65251-cloud | Member E | `conftest.py` |
 
 ---

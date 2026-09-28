@@ -8,12 +8,12 @@ Lab 4 group project for Automated Software Testing — collaborative Git/GitHub 
 
 ## Who Did What
 
-| Member | GitHub Username | Main File / Responsibility |
-|---|---|---|
-| Member A — <Name> | <username> | `test_deposit.py` |
-| Member B — <Name> | <username> | `test_withdraw.py` |
-| Member C — <Name> | <username> | `test_teardown.py` |
-| Member D — <Name> | <username> | `test_shared.py` |
-| Member E — <Name> | <username> | `conftest.py` |
+| Member Name | Student ID | GitHub Username | Role | Main File / Responsibility |
+|---|---|---|---|---|
+| <Name> | <Student ID> | <username> | Member A | `test_deposit.py` |
+| <Name> | <Student ID> | <username> | Member B | `test_withdraw.py` |
+| <Name> | <Student ID> | <username> | Member C | `test_teardown.py` |
+| <Name> | <Student ID> | <username> | Member D | `test_shared.py` |
+| <Name> | <Student ID> | <username> | Member E | `conftest.py` |
 
 ---
